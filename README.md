@@ -1,0 +1,1 @@
+# shitcoin-sniper-bot
