@@ -1,3 +1,10 @@
+<p align="center">
+<img src=https://img.shields.io/github/stars/origami-xyz/shitcoin-sniper-bot?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/forks/origami-xyz/shitcoin-sniper-bot?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/issues/origami-xyz/shitcoin-sniper-bot?style=for-the-badge&logo=appveyor&color=informational />
+<img src=https://img.shields.io/github/issues-pr/origami-xyz/shitcoin-sniper-bot?style=for-the-badge&logo=appveyor&color=informational />
+</p>
+
 #### Description
 This sniper bot operates as a specialized tool within the Solana network, meticulously engineered to swiftly navigate the volatile landscape of 'shitcoins'—cryptocurrencies with uncertain value—while aiming to pinpoint tokens that harbor promising growth prospects. Its primary function revolves around facilitating the purchasing process, executing rapid and precise transactions within the dynamic Solana ecosystem.
 
