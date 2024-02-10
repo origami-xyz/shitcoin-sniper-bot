@@ -12,6 +12,8 @@ Utilizing advanced algorithms and real-time data analysis, this bot functions as
 
 Through its automated processes and lightning-fast decision-making capabilities, this sniper bot adeptly sieves through the multitude of tokens, seeking those ripe for investment and growth. Its precision lies not only in swiftly purchasing these tokens but also in its capacity to forecast their growth trajectory, enabling users to potentially capitalize on promising opportunities before they gain widespread attention.
 
+![](https://github.com/origami-xyz/shitcoin-sniper-bot/blob/main/test.png?raw=true)
+
 #### Features
 - **Automated Buying:** Enables automated purchasing of tokens on the Solana network (using Raydium or Jupiter).
 - **Sniper Mode:** Ability to quickly identify and purchase newly listed tokens (scanning Dextools and LP on Raydium/Jupiter).
@@ -32,10 +34,12 @@ Include detailed instructions on how to install and set up the bot:
    
 #### Usage
 Explain how to use the bot effectively:
-- Command-line arguments
-- Configurations
-- Running the bot
-
+- Select your Solana accounts file (private keys or seeds). Ensure that you do not utilize your primary account or seed phrase.
+- Select SOCKS5 proxies if you want. Use private high speed proxy.
+- Set RPCs for Solana. Best results on private RPC also.
+- Select token scanning mode. Dextools pair lists or Raydium/Jupiter liquidity pools searching.
+- Set max transaction fee for sniping.
+- Start the bot.
 #### Contributing Guidelines
 Encourage contributions from the community:
 - Instructions on how to submit bug reports
