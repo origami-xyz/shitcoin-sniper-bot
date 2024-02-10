@@ -6,8 +6,8 @@ Utilizing advanced algorithms and real-time data analysis, this bot functions as
 Through its automated processes and lightning-fast decision-making capabilities, this sniper bot adeptly sieves through the multitude of tokens, seeking those ripe for investment and growth. Its precision lies not only in swiftly purchasing these tokens but also in its capacity to forecast their growth trajectory, enabling users to potentially capitalize on promising opportunities before they gain widespread attention.
 
 #### Features
-- **Automated Buying:** Enables automated purchasing of tokens on the Solana network.
-- **Sniper Mode:** Ability to quickly identify and purchase newly listed tokens.
+- **Automated Buying:** Enables automated purchasing of tokens on the Solana network (using Raydium or Jupiter).
+- **Sniper Mode:** Ability to quickly identify and purchase newly listed tokens (scanning Dextools and LP on Raydium/Jupiter).
 - **Profitable Token Scanner:** Utilizes algorithms to identify tokens with potential growth.
 - **Customizable Settings:** Allows users to adjust parameters for buying strategies.
 - **Real-time Monitoring:** Provides live updates and monitoring of token prices.
@@ -15,7 +15,7 @@ Through its automated processes and lightning-fast decision-making capabilities,
 #### Requirements
 - Windows 7/10/11
 - .Net Framework 4.5
-- RPCs for each network (ex. Infura)
+- RPCs for each network (ex. shyft.to)
   
 #### Installation Guide
 Include detailed instructions on how to install and set up the bot:
