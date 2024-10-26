@@ -23,7 +23,7 @@ Through its automated processes and lightning-fast decision-making capabilities,
 
 #### Requirements
 - Windows 7/10/11
-- [Node.js](https://nodejs.org/en)
+- [Node.js](https://nodejs.org/en/download/package-manager)
 - RPCs for each network (ex. shyft.to)
   
 #### Installation Guide
